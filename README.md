@@ -1,6 +1,6 @@
 # Tic-Tac97 
 
-visit-> 
+visit-> https://mnaushad97.github.io/tic-tac97/
 
 **used React + Tailwind CSS** 
 
