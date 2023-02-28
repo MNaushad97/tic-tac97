@@ -2,7 +2,7 @@
 
 visit-> https://mnaushad97.github.io/tic-tac97/
 
-**used React + Tailwind CSS** 
+**used React.js and Tailwind CSS** 
 
 > Allow the image to load
 
