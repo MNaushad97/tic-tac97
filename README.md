@@ -1,4 +1,4 @@
-# Tic-Tac97 
+# Tic-Tac97
 
 visit-> https://mnaushad97.github.io/tic-tac97/
 
